@@ -1,0 +1,30 @@
+2023-05-25 19:26:46.911443 [info] : ========== Server init ==========
+2023-05-25 19:26:46.911486 [info] : Port:1316, OpenLinger: false
+2023-05-25 19:26:46.911494 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-05-25 19:26:46.911499 [info] : LogSys level: 1
+2023-05-25 19:26:46.911613 [info] : srcDir: /home/sanxian/C++/WebServer-master/resources/
+2023-05-25 19:26:46.911624 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-05-25 19:26:46.911649 [info] : ========== Server start ==========
+2023-05-25 19:27:10.531929 [info] : Client[6](192.168.248.1:23015) in, userCount:1
+2023-05-25 19:27:10.532040 [info] : Client[6] in!
+2023-05-25 19:27:10.557528 [info] : Client[7](192.168.248.1:23271) in, userCount:2
+2023-05-25 19:27:10.557661 [info] : Client[7] in!
+2023-05-25 19:27:10.567999 [info] : Client[8](192.168.248.1:23527) in, userCount:3
+2023-05-25 19:27:10.568257 [info] : Client[8] in!
+2023-05-25 19:27:10.568281 [info] : Client[11](192.168.248.1:23783) in, userCount:4
+2023-05-25 19:27:10.568289 [info] : Client[11] in!
+2023-05-25 19:27:10.571729 [info] : Client[9](192.168.248.1:24039) in, userCount:5
+2023-05-25 19:27:10.571849 [info] : Client[9] in!
+2023-05-25 19:27:10.574705 [info] : Client[10](192.168.248.1:24295) in, userCount:6
+2023-05-25 19:27:10.574828 [info] : Client[10] in!
+2023-05-25 19:28:31.605588 [info] : Client[11] quit!
+2023-05-25 19:28:31.606299 [info] : Client[11](192.168.248.1:23783) quit, UserCount:5
+2023-05-25 19:28:31.606991 [info] : Client[9] quit!
+2023-05-25 19:28:31.607198 [info] : Client[9](192.168.248.1:24039) quit, UserCount:4
+2023-05-25 19:28:31.607225 [info] : Client[8] quit!
+2023-05-25 19:28:31.607386 [info] : Client[8](192.168.248.1:23527) quit, UserCount:3
+2023-05-25 19:28:31.607524 [info] : Client[6] quit!
+2023-05-25 19:28:31.607680 [info] : Client[6](192.168.248.1:23015) quit, UserCount:2
+2023-05-25 19:28:31.607723 [info] : Client[10] quit!
+2023-05-25 19:28:31.607838 [info] : Client[10](192.168.248.1:24295) quit, UserCount:1
+2023-05-25 19:28:31.607876 [info] : Client[7] quit!

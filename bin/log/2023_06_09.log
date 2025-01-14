@@ -1,0 +1,44 @@
+2023-06-09 21:21:16.218507 [info] : ========== Server init ==========
+2023-06-09 21:21:16.218544 [info] : Port:1316, OpenLinger: false
+2023-06-09 21:21:16.218551 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-06-09 21:21:16.218554 [info] : LogSys level: 1
+2023-06-09 21:21:16.218557 [info] : srcDir: /home/sanxian/C++/WebServer-master/bin/resources/
+2023-06-09 21:21:16.218561 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-06-09 21:21:16.218565 [info] : ========== Server start ==========
+2023-06-09 21:21:38.371437 [info] : Client[6](192.168.248.1:2277) in, userCount:1
+2023-06-09 21:21:38.371563 [info] : Client[6] in!
+2023-06-09 21:21:38.391012 [info] : Client[6] quit!
+2023-06-09 21:21:38.391547 [info] : Client[6](192.168.248.1:2277) quit, UserCount:0
+2023-06-09 21:21:38.396140 [info] : Client[6](192.168.248.1:2533) in, userCount:1
+2023-06-09 21:21:38.396307 [info] : Client[6] in!
+2023-06-09 21:21:38.396370 [info] : Client[7](192.168.248.1:2789) in, userCount:2
+2023-06-09 21:21:38.396580 [info] : Client[7] in!
+2023-06-09 21:21:38.453655 [info] : Client[6] quit!
+2023-06-09 21:21:38.453885 [info] : Client[6](192.168.248.1:2533) quit, UserCount:1
+2023-06-09 21:22:38.456984 [info] : Client[7] quit!
+2023-06-09 21:22:38.457757 [info] : Client[7](192.168.248.1:2789) quit, UserCount:0
+2023-06-09 21:22:38.457960 [info] : Client[6] quit!
+2023-06-09 21:26:52.111011 [info] : Client[6](192.168.248.1:50405) in, userCount:1
+2023-06-09 21:26:52.111208 [info] : Client[6] in!
+2023-06-09 21:26:52.131191 [info] : Client[6] quit!
+2023-06-09 21:26:52.131596 [info] : Client[6](192.168.248.1:50405) quit, UserCount:0
+2023-06-09 21:26:52.135201 [info] : Client[6](192.168.248.1:50661) in, userCount:1
+2023-06-09 21:26:52.135385 [info] : Client[6] in!
+2023-06-09 21:26:52.135447 [info] : Client[7](192.168.248.1:50917) in, userCount:2
+2023-06-09 21:26:52.135487 [info] : Client[7] in!
+2023-06-09 21:27:52.194715 [info] : Client[6] quit!
+2023-06-09 21:27:52.196620 [info] : Client[6](192.168.248.1:50661) quit, UserCount:1
+2023-06-09 21:27:52.196737 [info] : Client[7] quit!
+2023-06-09 21:27:52.197062 [info] : Client[7](192.168.248.1:50917) quit, UserCount:0
+2023-06-09 21:28:27.897636 [info] : Client[6](192.168.248.1:28902) in, userCount:1
+2023-06-09 21:28:27.897794 [info] : Client[6] in!
+2023-06-09 21:28:27.909848 [info] : Client[6] quit!
+2023-06-09 21:28:27.910247 [info] : Client[6](192.168.248.1:28902) quit, UserCount:0
+2023-06-09 21:28:27.921703 [info] : Client[6](192.168.248.1:29414) in, userCount:1
+2023-06-09 21:28:27.921842 [info] : Client[6] in!
+2023-06-09 21:28:27.921865 [info] : Client[7](192.168.248.1:29670) in, userCount:2
+2023-06-09 21:28:27.921872 [info] : Client[7] in!
+2023-06-09 21:28:42.966234 [info] : Client[6] quit!
+2023-06-09 21:28:42.966430 [info] : Client[6](192.168.248.1:29414) quit, UserCount:1
+2023-06-09 21:29:27.958839 [info] : Client[7] quit!
+2023-06-09 21:29:27.959517 [info] : Client[7](192.168.248.1:29670) quit, UserCount:0

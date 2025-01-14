@@ -1,0 +1,172 @@
+2023-06-07 17:50:04.319731 [info] : ========== Server init ==========
+2023-06-07 17:50:04.319801 [info] : Port:1316, OpenLinger: false
+2023-06-07 17:50:04.319818 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-06-07 17:50:04.319828 [info] : LogSys level: 1
+2023-06-07 17:50:04.319837 [info] : srcDir: /home/sanxian/C++/WebServer-master/resources/
+2023-06-07 17:50:04.319846 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-06-07 17:50:04.319854 [info] : ========== Server start ==========
+2023-06-07 17:52:10.509808 [info] : Client[6](192.168.248.1:47814) in, userCount:1
+2023-06-07 17:52:10.512560 [info] : Client[6] in!
+2023-06-07 17:52:10.535623 [info] : Client[7](192.168.248.1:48070) in, userCount:2
+2023-06-07 17:52:10.535905 [info] : Client[7] in!
+2023-06-07 17:52:10.554135 [info] : Client[10](192.168.248.1:48326) in, userCount:3
+2023-06-07 17:52:10.557317 [info] : Client[10] in!
+2023-06-07 17:52:10.557381 [info] : Client[8](192.168.248.1:48582) in, userCount:4
+2023-06-07 17:52:10.557391 [info] : Client[8] in!
+2023-06-07 17:52:10.557414 [info] : Client[9](192.168.248.1:48838) in, userCount:5
+2023-06-07 17:52:10.557421 [info] : Client[9] in!
+2023-06-07 17:52:10.557429 [info] : Client[11](192.168.248.1:49094) in, userCount:6
+2023-06-07 17:52:10.557435 [info] : Client[11] in!
+2023-06-07 17:58:02.552953 [info] : ========== Server init ==========
+2023-06-07 17:58:02.552981 [info] : Port:1316, OpenLinger: false
+2023-06-07 17:58:02.552988 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-06-07 17:58:02.552991 [info] : LogSys level: 1
+2023-06-07 17:58:02.552994 [info] : srcDir: /home/sanxian/C++/WebServer-master/resources/
+2023-06-07 17:58:02.552998 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-06-07 17:58:02.553077 [info] : ========== Server start ==========
+2023-06-07 17:58:16.507225 [info] : Client[6](192.168.248.1:1480) in, userCount:1
+2023-06-07 17:58:16.507393 [info] : Client[6] in!
+2023-06-07 17:58:16.532609 [info] : Client[7](192.168.248.1:1736) in, userCount:2
+2023-06-07 17:58:16.532744 [info] : Client[7] in!
+2023-06-07 17:58:16.549954 [info] : Client[9](192.168.248.1:1992) in, userCount:3
+2023-06-07 17:58:16.550868 [info] : Client[9] in!
+2023-06-07 17:58:16.551112 [info] : Client[10](192.168.248.1:2248) in, userCount:4
+2023-06-07 17:58:16.553743 [info] : Client[10] in!
+2023-06-07 17:58:16.553970 [info] : Client[8](192.168.248.1:2504) in, userCount:5
+2023-06-07 17:58:16.554462 [info] : Client[8] in!
+2023-06-07 17:58:16.556973 [info] : Client[12](192.168.248.1:2760) in, userCount:6
+2023-06-07 17:58:16.557532 [info] : Client[12] in!
+2023-06-07 17:59:43.354602 [info] : Client[10] quit!
+2023-06-07 17:59:43.354862 [info] : Client[10](192.168.248.1:2248) quit, UserCount:5
+2023-06-07 17:59:43.354901 [info] : Client[8] quit!
+2023-06-07 17:59:43.354944 [info] : Client[8](192.168.248.1:2504) quit, UserCount:4
+2023-06-07 17:59:43.354991 [info] : Client[12] quit!
+2023-06-07 17:59:43.355154 [info] : Client[12](192.168.248.1:2760) quit, UserCount:3
+2023-06-07 17:59:43.355185 [info] : Client[7] quit!
+2023-06-07 17:59:43.355246 [info] : Client[7](192.168.248.1:1736) quit, UserCount:2
+2023-06-07 17:59:43.355285 [info] : Client[9] quit!
+2023-06-07 17:59:43.355345 [info] : Client[9](192.168.248.1:1992) quit, UserCount:1
+2023-06-07 17:59:47.451179 [info] : Client[7](192.168.248.1:21448) in, userCount:2
+2023-06-07 17:59:47.451898 [info] : Client[7] in!
+2023-06-07 17:59:47.452054 [info] : Client[8](192.168.248.1:21704) in, userCount:3
+2023-06-07 17:59:47.452095 [info] : Client[8] in!
+2023-06-07 17:59:47.453872 [info] : Client[9](192.168.248.1:21960) in, userCount:4
+2023-06-07 17:59:47.454276 [info] : Client[9] in!
+2023-06-07 17:59:47.454533 [info] : Client[10](192.168.248.1:22216) in, userCount:5
+2023-06-07 17:59:47.454599 [info] : Client[10] in!
+2023-06-07 18:00:47.512425 [info] : Client[6] quit!
+2023-06-07 18:00:47.512846 [info] : Client[6](192.168.248.1:1480) quit, UserCount:4
+2023-06-07 18:00:47.512928 [info] : Client[8] quit!
+2023-06-07 18:00:47.513074 [info] : Client[8](192.168.248.1:21704) quit, UserCount:3
+2023-06-07 18:00:47.513130 [info] : Client[7] quit!
+2023-06-07 18:00:47.513571 [info] : Client[7](192.168.248.1:21448) quit, UserCount:2
+2023-06-07 18:00:47.513722 [info] : Client[9] quit!
+2023-06-07 18:00:47.514373 [info] : Client[9](192.168.248.1:21960) quit, UserCount:1
+2023-06-07 18:00:47.518480 [info] : Client[10] quit!
+2023-06-07 18:00:47.518896 [info] : Client[10](192.168.248.1:22216) quit, UserCount:0
+2023-06-07 18:00:50.647949 [info] : Client[6](192.168.248.1:41928) in, userCount:1
+2023-06-07 18:00:50.648235 [info] : Client[6] in!
+2023-06-07 18:01:15.720187 [info] : Client[7](192.168.248.1:55496) in, userCount:2
+2023-06-07 18:01:15.720297 [info] : Client[7] in!
+2023-06-07 18:01:15.731661 [info] : Client[8](192.168.248.1:56008) in, userCount:3
+2023-06-07 18:01:15.731774 [info] : Client[8] in!
+2023-06-07 20:35:56.457772 [info] : ========== Server init ==========
+2023-06-07 20:35:56.457835 [info] : Port:1316, OpenLinger: false
+2023-06-07 20:35:56.457839 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-06-07 20:35:56.457841 [info] : LogSys level: 1
+2023-06-07 20:35:56.457877 [info] : srcDir: /home/sanxian/C++/WebServer-master/resources/
+2023-06-07 20:35:56.457879 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-06-07 20:35:56.457881 [info] : ========== Server start ==========
+2023-06-07 20:36:25.876815 [info] : Client[6](192.168.248.1:31214) in, userCount:1
+2023-06-07 20:36:25.877743 [info] : Client[6] in!
+2023-06-07 20:36:25.913163 [info] : Client[7](192.168.248.1:31470) in, userCount:2
+2023-06-07 20:36:25.913328 [info] : Client[7] in!
+2023-06-07 20:36:25.945530 [info] : Client[8](192.168.248.1:31726) in, userCount:3
+2023-06-07 20:36:25.945748 [info] : Client[8] in!
+2023-06-07 20:36:25.945783 [info] : Client[9](192.168.248.1:31982) in, userCount:4
+2023-06-07 20:36:25.945804 [info] : Client[9] in!
+2023-06-07 20:36:25.950038 [info] : Client[10](192.168.248.1:32238) in, userCount:5
+2023-06-07 20:36:25.950097 [info] : Client[10] in!
+2023-06-07 20:36:25.959049 [info] : Client[12](192.168.248.1:32494) in, userCount:6
+2023-06-07 20:36:25.959143 [info] : Client[12] in!
+2023-06-07 20:41:57.897137 [info] : ========== Server init ==========
+2023-06-07 20:41:57.897173 [info] : Port:1316, OpenLinger: false
+2023-06-07 20:41:57.897177 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-06-07 20:41:57.897179 [info] : LogSys level: 1
+2023-06-07 20:41:57.897182 [info] : srcDir: /home/sanxian/C++/WebServer-master/resources/
+2023-06-07 20:41:57.897184 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-06-07 20:41:57.897186 [info] : ========== Server start ==========
+2023-06-07 20:42:02.195470 [info] : Client[6](192.168.248.1:6128) in, userCount:1
+2023-06-07 20:42:02.196265 [info] : Client[6] in!
+2023-06-07 20:42:02.218462 [info] : Client[7](192.168.248.1:6384) in, userCount:2
+2023-06-07 20:42:02.218625 [info] : Client[7] in!
+2023-06-07 20:42:02.256301 [info] : Client[8](192.168.248.1:6640) in, userCount:3
+2023-06-07 20:42:02.259137 [info] : Client[8] in!
+2023-06-07 20:42:02.259224 [info] : Client[10](192.168.248.1:6896) in, userCount:4
+2023-06-07 20:42:02.259236 [info] : Client[10] in!
+2023-06-07 20:42:02.259255 [info] : Client[11](192.168.248.1:7152) in, userCount:5
+2023-06-07 20:42:02.259262 [info] : Client[11] in!
+2023-06-07 20:42:02.261873 [info] : Client[12](192.168.248.1:7408) in, userCount:6
+2023-06-07 20:42:02.262183 [info] : Client[12] in!
+2023-06-07 20:46:01.786353 [info] : ========== Server init ==========
+2023-06-07 20:46:01.786390 [info] : Port:1316, OpenLinger: false
+2023-06-07 20:46:01.786396 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-06-07 20:46:01.786399 [info] : LogSys level: 1
+2023-06-07 20:46:01.786402 [info] : srcDir: /home/sanxian/C++/WebServer-master/resources/
+2023-06-07 20:46:01.786405 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-06-07 20:46:01.786408 [info] : ========== Server start ==========
+2023-06-07 20:46:07.741167 [info] : Client[6](192.168.248.1:8945) in, userCount:1
+2023-06-07 20:46:07.742282 [info] : Client[6] in!
+2023-06-07 20:46:07.769436 [info] : Client[7](192.168.248.1:9201) in, userCount:2
+2023-06-07 20:46:07.769561 [info] : Client[7] in!
+2023-06-07 20:46:07.786029 [info] : Client[8](192.168.248.1:9457) in, userCount:3
+2023-06-07 20:46:07.786688 [info] : Client[8] in!
+2023-06-07 20:46:07.786800 [info] : Client[9](192.168.248.1:9713) in, userCount:4
+2023-06-07 20:46:07.787744 [info] : Client[9] in!
+2023-06-07 20:46:07.788240 [info] : Client[11](192.168.248.1:9969) in, userCount:5
+2023-06-07 20:46:07.788284 [info] : Client[11] in!
+2023-06-07 20:46:07.796175 [info] : Client[13](192.168.248.1:10225) in, userCount:6
+2023-06-07 20:46:07.796565 [info] : Client[13] in!
+2023-06-07 21:32:33.876384 [info] : ========== Server init ==========
+2023-06-07 21:32:33.876445 [info] : Port:1316, OpenLinger: false
+2023-06-07 21:32:33.876452 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-06-07 21:32:33.876455 [info] : LogSys level: 1
+2023-06-07 21:32:33.876458 [info] : srcDir: /home/sanxian/C++/WebServer-master/resources/
+2023-06-07 21:32:33.876539 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-06-07 21:32:33.876563 [info] : ========== Server start ==========
+2023-06-07 21:32:36.803172 [info] : Client[18](192.168.248.1:64706) in, userCount:1
+2023-06-07 21:32:36.803426 [info] : Client[18] in!
+2023-06-07 21:32:36.817834 [info] : Client[19](192.168.248.1:64962) in, userCount:2
+2023-06-07 21:32:36.817979 [info] : Client[19] in!
+2023-06-07 21:32:36.841543 [info] : Client[20](192.168.248.1:65218) in, userCount:3
+2023-06-07 21:32:36.846097 [info] : Client[20] in!
+2023-06-07 21:32:36.846283 [info] : Client[21](192.168.248.1:65474) in, userCount:4
+2023-06-07 21:32:36.846343 [info] : Client[21] in!
+2023-06-07 21:32:36.846393 [info] : Client[22](192.168.248.1:195) in, userCount:5
+2023-06-07 21:32:36.847793 [info] : Client[22] in!
+2023-06-07 21:32:36.847971 [info] : Client[25](192.168.248.1:451) in, userCount:6
+2023-06-07 21:32:36.847999 [info] : Client[25] in!
+2023-06-07 21:32:46.336341 [info] : Verify name:wfg pwd:123456
+2023-06-07 21:32:46.408892 [error]: RequestLine Error
+2023-06-07 21:32:46.409617 [info] : Client[25] quit!
+2023-06-07 21:32:46.410072 [info] : Client[25](192.168.248.1:451) quit, UserCount:5
+2023-06-07 21:32:46.423420 [info] : Client[23](192.168.248.1:3779) in, userCount:6
+2023-06-07 21:32:46.423507 [info] : Client[23] in!
+2023-06-07 21:33:01.246101 [info] : Verify name:byc pwd:123
+2023-06-07 21:33:01.267458 [error]: RequestLine Error
+2023-06-07 21:33:01.268141 [info] : Client[23] quit!
+2023-06-07 21:33:01.268456 [info] : Client[23](192.168.248.1:3779) quit, UserCount:5
+2023-06-07 21:33:01.283201 [info] : Client[23](192.168.248.1:8899) in, userCount:6
+2023-06-07 21:33:01.283317 [info] : Client[23] in!
+2023-06-07 21:33:46.453866 [info] : Client[25] quit!
+2023-06-07 21:34:01.315666 [info] : Client[21] quit!
+2023-06-07 21:34:01.316410 [info] : Client[21](192.168.248.1:65474) quit, UserCount:5
+2023-06-07 21:34:01.316515 [info] : Client[22] quit!
+2023-06-07 21:34:01.316968 [info] : Client[22](192.168.248.1:195) quit, UserCount:4
+2023-06-07 21:34:01.317022 [info] : Client[19] quit!
+2023-06-07 21:34:01.317234 [info] : Client[19](192.168.248.1:64962) quit, UserCount:3
+2023-06-07 21:34:01.317361 [info] : Client[23] quit!
+2023-06-07 21:34:01.317579 [info] : Client[23](192.168.248.1:8899) quit, UserCount:2
+2023-06-07 21:34:01.317622 [info] : Client[20] quit!
+2023-06-07 21:34:01.317848 [info] : Client[20](192.168.248.1:65218) quit, UserCount:1
+2023-06-07 21:34:01.350493 [info] : Client[18] quit!
